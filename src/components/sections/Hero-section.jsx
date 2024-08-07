@@ -25,7 +25,7 @@ function Hero() {
         </article>  
         <article className="right-hero">
             <div className="img">
-                <img src="./assets/hero.png"/>
+                <img src="./assets/hero.png" alt="banner-image"/>
             </div>
         </article>
              
