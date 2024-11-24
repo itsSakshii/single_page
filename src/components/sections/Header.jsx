@@ -5,9 +5,7 @@ import { faUser} from '@fortawesome/free-solid-svg-icons';
 
 function Header() {
     
-  console.log(import.meta.env.VITE_ENV); // Output: development
-console.log(import.meta.env.VITE_TITLE); // Output: Landing Page
-console.log(import.meta.env.VITE_VERSION); // Output: 1.0.0
+
     return (
       <>
         <header className="header">
